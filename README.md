@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Gavin
 
-<!--
-**Kouen-Park/Kouen-Park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at the **University of Auckland**, interested in **software development and AI**.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cs,c,js,ts,react,nextjs,fastapi,flask,dotnet,postgres,docker,git" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kouen-Park&show_icons=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kouen-Park&layout=compact&hide_border=true" />
+</p>
+
+## 🔗 Links
+
+🌐 [Portfolio](https://gavin-park-portfolio.vercel.app/)  
+✍️ [Dev Blog](https://parkseongjin.me/) 🇰🇷

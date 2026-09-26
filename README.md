@@ -1,21 +1,18 @@
 # Hi, I'm Gavin
 
-Computer Science student at the **University of Auckland**, interested in **software development and AI**.
+I'm a Computer Science student at the **University of Auckland**, based in New Zealand.
 
-## 🛠 Tech Stack
+I enjoy building things with software, especially around **AI and the web**. Most of the time, I learn by making things — starting with an idea, figuring things out along the way, breaking something, and eventually getting it to work.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,c,js,ts,react,nextjs,fastapi,flask,dotnet,postgres,docker,git" />
-</p>
+When I'm not coding, I'm probably:
 
-## 📊 GitHub Stats
+- ⛳ Playing golf
+- 🎸 Playing electric guitar or bass
+- ⚽ Watching football
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kouen-Park&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kouen-Park&layout=compact&hide_border=true" />
-</p>
+I'm still learning, building, and figuring things out along the way. This GitHub is basically a collection of things I've built, learned, broken, and somehow fixed.
 
-## 🔗 Links
+### Elsewhere
 
 🌐 [Portfolio](https://gavin-park-portfolio.vercel.app/)  
-✍️ [Dev Blog](https://parkseongjin.me/) 🇰🇷
+✍️ [Dev Blog](YOUR_BLOG_URL) — written in Korean 🇰🇷

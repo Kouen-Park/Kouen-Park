@@ -15,4 +15,4 @@ I'm still learning, building, and figuring things out along the way. This GitHub
 ### Elsewhere
 
 🌐 [Portfolio](https://gavin-park-portfolio.vercel.app/)  
-✍️ [Dev Blog](YOUR_BLOG_URL) — written in Korean 🇰🇷
+✍️ [Dev Blog](https://parkseongjin.me/) — written in Korean 🇰🇷
